@@ -19,3 +19,7 @@ function isPrime(number) {
   }
   
   displayPrimesInRange(1, 1000);
+
+
+
+ 
